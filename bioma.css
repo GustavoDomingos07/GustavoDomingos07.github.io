@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.amazonia{
+float: left;
+margin-right: 10 px;
+}
+
+.caatinga{
+float: left;
+margin-right: 10 px;
+}
+
+.cerrado{
+float: left;
+margin-right: 10 px;
+}
+.mataatlantica{
+float: left;
+margin-right: 10 px;
+}
+.pampa{
+float: left;
+margin-right: 10 px;
+}
+.pantanal{
+float: left;
+margin-right: 10 px;
+}
